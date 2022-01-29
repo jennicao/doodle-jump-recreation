@@ -4,6 +4,11 @@ Recreated the game, Doodle Jump, in Python using the `pygame` library.
 
 Run `Doodle Jump.py` to get started.
 
+## Video Demo
+
+https://user-images.githubusercontent.com/73912656/151676120-e3efc352-4496-4b3d-b335-707db9c6dff9.mp4
+
+
 ## Screenshots of Gameplay
 
 <img src="https://user-images.githubusercontent.com/73912656/149461387-246008a0-8acf-40fc-aaae-97cca0723617.png" width=300>
